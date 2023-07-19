@@ -1,0 +1,31 @@
+
+
+Movie	                                                                             Director
+
+The Shawshank Redemption (1994)	                       Frank Darabont
+The Godfather (1972)	                                         Francis Ford Coppola
+Pulp Fiction (1994)	                                                          Quentin Tarantino
+The Dark Knight (2008)	                                        Christopher Nolan
+The Lord of the Rings: The Return of the King (2003)	    Peter Jackson
+The Good, the Bad and the Ugly (1966)	                      Sergio Leone
+Schindler's List (1993)	                                        Steven Spielberg
+The Matrix (1999)	                                                          Lana and Lilly Wachowski
+The Silence of the Lambs (1991)	                     Jonathan Demme
+Fight Club (1999)	                                                         David Fincher
+Inception (2010)	                                                         Christopher Nolan
+The Departed (2006)	                                       Martin Scorsese
+Whiplash (2014)	                                                         Damien Chazelle
+Parasite (2019)	                                                         Bong Joon-ho
+The Big Lebowski (1998)	                                      Joel Coen and Ethan Coen
+The Social Network (2010)	                                      David Fincher
+Interstellar (2014)	                                                       Christopher Nolan
+Memento (2000)	                                                       Christopher Nolan
+Mulholland Drive (2001)	                                     David Lynch
+The Shining (1980)	                                                       Stanley Kubrick
+2001: A Space Odyssey (1968)	                   Stanley Kubrick
+Blade Runner 2049 (2017)	                                     Denis Villeneuve
+The Grand Budapest Hotel (2014)	                   Wes Anderson
+The Godfather Part II (1974)	                                     Francis Ford Coppola
+The Departed (2006)	                                     Martin Scorsese
+There Will Be Blood (2007)	                                     Paul Thomas Anderson
+Roma (2018)	                                                       Alfonso Cuarón
